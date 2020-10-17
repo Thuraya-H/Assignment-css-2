@@ -4,12 +4,17 @@
     padding: 10px;
    }
   .center-box{
+    min-height: 500px;
+    width: 900px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: black;
   }
-  display: flex;
+  .center-item{
+    min-height: 200px;
+    width: 200px;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: yellow;
