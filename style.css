@@ -1,7 +1,7 @@
 /*CSS reset settings here*/
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 10px;
+    padding: 10px;
    }
   .center-box{
     display: flex;
@@ -14,10 +14,10 @@
     justify-content: space-between;
     align-items: center;
     color: white;
+  }
       a{    
-        display: flex;
+        display: inline-block;
         justify-content: space-between;
         align-items: center;
         color: white;
       }
-  }
