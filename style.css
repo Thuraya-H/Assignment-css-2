@@ -7,11 +7,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: blue;
+    background-color: #6495ed;
   }
   .center-item{
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
+      a{color: white;
+      }
   }
