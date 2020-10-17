@@ -1,7 +1,7 @@
 /*CSS reset settings here*/
 *{
     margin: 5px;
-    padding: 5px;
+    padding: 0px;
    }
   .center-box{
     display: flex;
